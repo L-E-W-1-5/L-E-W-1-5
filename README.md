@@ -10,11 +10,12 @@ I enjoy continuous learning and I am interested in roles that reflect this. My t
 
 |                 Project                  |               Description                | Technologies                             |
 | :--------------------------------------: | :--------------------------------------: | :--------------------------------------- |
-| [Customer Relationship Management App]() | An App that allowed the user to add clients to the database, edit them and record any notes from meetings. The user could also search the database.    | React, JavaScript, MongoDB and Mongoose, NodeJS. |
-| [Random User Generator](https://github.com/leighwhite96/random-user-generator-react) | A React web app that allows users to enter a number and returns that many random users.  | React, JavaScript, Fetch API, Third Party APIs |
-| [Personal Website](https://github.com/leighwhite96/portfolio-website) | A personal website that acts as a portfolio.  | React, JavaScript, React libraries such as MUI and Reactstrap |
-| [Equation Solver](https://github.com/leighwhite96/second-order-polynomial-equation-solver) | A web app that allows users to enter coefficients to a second-order polynomial equation and returns the solution (if there is one!)  | NodeJS, Express, Handlebars, JavaScript |
-| [Rock Paper Scissors](https://github.com/leighwhite96/rock-paper-scissors-templated) | A simple game of Rock Paper Scissors with sign up, login and logout functionality. You can only view the game if you are logged in. This app used a database to store users in. | NodeJS, Express, Handlebars JavaScript, MongoDB, Mlabs |
+| [Group Travel App](https://github.com/L-E-W-1-5/travel_herd_frontend) | An App created with a group that allows users to log in using Auth0, create a custom trip along with options and can invite and email other users who can then join on their accounts to the trip and vote on the options. | React, JavaScript, Postgres, Express, Node.js, Auth0, Typescript, Jest |
+| [Group Travel App - Backend](https://github.com/L-E-W-1-5/travel_herd_backend) | The Backend to the Travel App | NodeJS, Express, Handlebars JavaScript, MongoDB, Mlabs |
+| [Tetris Game](https://github.com/L-E-W-1-5/Tetris-WPF) |A WPF application made with C#, initially a tutorial but many new features added.| C#, WPF, XAML |
+| [Multilingual Learning App](https://github.com/L-E-W-1-5/Week_9_Project) | A group project made with fellow SOC students to aid with future bootcampers who may not speak english as their first language | React, JavaScript, Express, Node.js |
+| [Weather App](https://github.com/L-E-W-1-5/weather_app) | A web app that will call an API and deliver you a weather report of a location of your choosing. | Node.js, Express, RESTfull API's, JavaScript |
+
 
 For more projects please look through my GitHub!
 
