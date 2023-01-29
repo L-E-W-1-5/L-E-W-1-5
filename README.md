@@ -1,6 +1,6 @@
 ## Hi i'm Lewis Wootton, an aspiring Full Stack Developer.
 
-Currently enrolled in the school of code, learning about full stack web development. 
+Just graduated from the school of code, learning about full stack web development. 
 
 [LinkedIn](https://www.linkedin.com/in/lewis-wootton-30645322b/) | [Github](https://github.com/L-E-W-1-5)
 
